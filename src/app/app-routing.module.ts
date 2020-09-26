@@ -13,7 +13,7 @@ const routes: Routes = [
 
   },
   {
-    path:"search-lessons",
+    path: 'search-lessons',
     component: SearchLessonsComponent
   },
   {
